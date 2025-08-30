@@ -1,8 +1,11 @@
-⚡ QR Code Generator
-Project Overview
+                                                        ⚡ QR Code Generator
+
+Project Overview:
+
 This is a modern, responsive web application designed to empower users to effortlessly generate high-quality QR codes from any text or URL. Built with a focus on simplicity and performance, the application provides a clean and intuitive user interface, making the process of creating scannable QR codes quick and efficient. This project serves as a showcase of core frontend development skills, including DOM manipulation, API integration, and responsive design principles.
 
-Key Features ✨
+Key Features ✨:
+
 Instant QR Code Generation: Generate QR codes in real-time as the user types or pastes content.
 
 Dynamic Customization: The QR code adapts dynamically to the input length, ensuring optimal scannability.
@@ -53,6 +56,7 @@ Live Demo: https://marvelous-pasca-9627c9.netlify.app/
 GitHub Repository: https://github.com/srikarshetty718/qr-code-generator
 
 Why This Project is Valuable 👍
+
 This project demonstrates a clear understanding of fundamental frontend concepts and practices. It highlights proficiency in:
 
 DOM Manipulation: Interacting with and modifying the structure and content of a web page.
@@ -77,4 +81,5 @@ Add QR Code with a logo: Allow users to embed a small logo in the center of the 
 Support for different file types: Add support for generating QR codes for file downloads, contact cards (vCard), or Wi-Fi network credentials.
 
 Author ✍️
+
 Srikar Sambu
