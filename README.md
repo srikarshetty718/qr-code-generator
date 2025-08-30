@@ -48,12 +48,10 @@ The QR code will automatically appear on the screen.
 Click the "Download" button to save the QR code image to your device.
 
 Live Demo & Repository
-Live Demo: 
+Live Demo: https://marvelous-pasca-9627c9.netlify.app/
 
-LiveDemoURLPlaceholder
-GitHub Repository: 
+GitHub Repository: https://github.com/srikarshetty718/qr-code-generator
 
-YourGitHubRepositoryURLPlaceholder
 Why This Project is Valuable 👍
 This project demonstrates a clear understanding of fundamental frontend concepts and practices. It highlights proficiency in:
 
@@ -79,4 +77,4 @@ Add QR Code with a logo: Allow users to embed a small logo in the center of the 
 Support for different file types: Add support for generating QR codes for file downloads, contact cards (vCard), or Wi-Fi network credentials.
 
 Author ✍️
-Srikar Sambu- 
+Srikar Sambu
